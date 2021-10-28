@@ -8,6 +8,8 @@ This project is in java language with database. Mysql database is used in this p
 
 Database queries to build database of this project :-
 
+https://github.com/AkashMarkad/Quiz_App/blob/master/Quiz.App_Database.txt
 
+run queries inside this file in mysql as it is.
 
 TO connect GUI to database , we need to connect GUI to database. By using mysql-connecter.jar and rs2xml.jar file. I added Connector file into lib folder in project.
