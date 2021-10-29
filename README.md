@@ -13,3 +13,5 @@ https://github.com/AkashMarkad/Quiz_App/blob/master/Quiz.App_Database.txt
 run queries inside this file in mysql as it is.
 
 TO connect GUI to database , we need to connect GUI to database. By using mysql-connecter.jar and rs2xml.jar file. I added Connector file into lib folder in project.
+
+This will help you to arrange quiz easily.
